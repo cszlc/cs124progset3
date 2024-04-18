@@ -1,0 +1,351 @@
+Instance,Algorithm,Representation,Residue,Time
+1,Karmarkar-Karp,Karmarkar-Karp,89676,0.0
+1,Repeated Random,standard,303400822,1.6165943145751953
+1,Hill Climbing,standard,455108634,0.48902225494384766
+1,Simulated Annealing,standard,7748422,0.4174525737762451
+1,Repeated Random,prepartition,70,5.733617782592773
+1,Hill Climbing,prepartition,1688,2.422203540802002
+1,Simulated Annealing,prepartition,178,2.3166866302490234
+2,Karmarkar-Karp,Karmarkar-Karp,719620,0.0
+2,Repeated Random,standard,204780388,1.988628625869751
+2,Hill Climbing,standard,464074872,0.48205995559692383
+2,Simulated Annealing,standard,224155390,0.4582545757293701
+2,Repeated Random,prepartition,714,4.918229341506958
+2,Hill Climbing,prepartition,278,2.377211570739746
+2,Simulated Annealing,prepartition,146,2.3294405937194824
+3,Karmarkar-Karp,Karmarkar-Karp,126909,0.0
+3,Repeated Random,standard,152132505,2.0815625190734863
+3,Hill Climbing,standard,347563737,0.4961967468261719
+3,Simulated Annealing,standard,91396505,0.5562729835510254
+3,Repeated Random,prepartition,77,4.536046981811523
+3,Hill Climbing,prepartition,629,2.2940573692321777
+3,Simulated Annealing,prepartition,225,2.2919280529022217
+4,Karmarkar-Karp,Karmarkar-Karp,33035,0.001016378402709961
+4,Repeated Random,standard,660400711,1.8035717010498047
+4,Hill Climbing,standard,217978061,0.4072563648223877
+4,Simulated Annealing,standard,145328763,0.5077435970306396
+4,Repeated Random,prepartition,197,4.699172019958496
+4,Hill Climbing,prepartition,859,2.26896595954895
+4,Simulated Annealing,prepartition,85,2.3034183979034424
+5,Karmarkar-Karp,Karmarkar-Karp,82983,0.0
+5,Repeated Random,standard,115107731,1.95271635055542
+5,Hill Climbing,standard,129379917,0.4319267272949219
+5,Simulated Annealing,standard,173947601,0.38500070571899414
+5,Repeated Random,prepartition,119,4.360438108444214
+5,Hill Climbing,prepartition,801,2.253633499145508
+5,Simulated Annealing,prepartition,73,6.635820388793945
+6,Karmarkar-Karp,Karmarkar-Karp,481354,0.0
+6,Repeated Random,standard,71159784,1.52622652053833
+6,Hill Climbing,standard,162989394,0.48613858222961426
+6,Simulated Annealing,standard,474766364,0.4323117733001709
+6,Repeated Random,prepartition,60,4.265019178390503
+6,Hill Climbing,prepartition,1016,2.3379926681518555
+6,Simulated Annealing,prepartition,310,2.3231453895568848
+7,Karmarkar-Karp,Karmarkar-Karp,52994,0.0
+7,Repeated Random,standard,115955482,1.9238390922546387
+7,Hill Climbing,standard,536192030,0.4516744613647461
+7,Simulated Annealing,standard,176385092,0.4807405471801758
+7,Repeated Random,prepartition,58,4.81130051612854
+7,Hill Climbing,prepartition,36,2.334480047225952
+7,Simulated Annealing,prepartition,228,2.383713960647583
+8,Karmarkar-Karp,Karmarkar-Karp,20747,0.0
+8,Repeated Random,standard,201818915,2.1241307258605957
+8,Hill Climbing,standard,8297933,0.4605541229248047
+8,Simulated Annealing,standard,116390583,0.5093631744384766
+8,Repeated Random,prepartition,479,4.961015224456787
+8,Hill Climbing,prepartition,357,2.2688279151916504
+8,Simulated Annealing,prepartition,37,2.315790891647339
+9,Karmarkar-Karp,Karmarkar-Karp,62516,0.0
+9,Repeated Random,standard,468633760,2.1733970642089844
+9,Hill Climbing,standard,195987224,0.47801828384399414
+9,Simulated Annealing,standard,838824930,0.4543311595916748
+9,Repeated Random,prepartition,202,4.746763229370117
+9,Hill Climbing,prepartition,836,2.320344924926758
+9,Simulated Annealing,prepartition,108,2.3595080375671387
+10,Karmarkar-Karp,Karmarkar-Karp,738096,0.0
+10,Repeated Random,standard,272261378,1.2401652336120605
+10,Hill Climbing,standard,475530716,0.29863691329956055
+10,Simulated Annealing,standard,131397202,0.30913782119750977
+10,Repeated Random,prepartition,14,5.086880683898926
+10,Hill Climbing,prepartition,88,2.280482530593872
+10,Simulated Annealing,prepartition,168,2.350290060043335
+11,Karmarkar-Karp,Karmarkar-Karp,40623,0.0
+11,Repeated Random,standard,395383345,2.2117626667022705
+11,Hill Climbing,standard,10909669,0.47795557975769043
+11,Simulated Annealing,standard,51188117,0.480806827545166
+11,Repeated Random,prepartition,41,4.704533815383911
+11,Hill Climbing,prepartition,53,2.2881596088409424
+11,Simulated Annealing,prepartition,49,2.4857988357543945
+12,Karmarkar-Karp,Karmarkar-Karp,136764,0.0
+12,Repeated Random,standard,1380256794,2.2539472579956055
+12,Hill Climbing,standard,546194182,0.45494580268859863
+12,Simulated Annealing,standard,38530160,0.47872233390808105
+12,Repeated Random,prepartition,52,5.00727105140686
+12,Hill Climbing,prepartition,14,2.3313989639282227
+12,Simulated Annealing,prepartition,28,2.3564698696136475
+13,Karmarkar-Karp,Karmarkar-Karp,174305,0.0
+13,Repeated Random,standard,373248463,2.1238062381744385
+13,Hill Climbing,standard,290769367,0.4528183937072754
+13,Simulated Annealing,standard,315674473,0.6308972835540771
+13,Repeated Random,prepartition,383,4.800780534744263
+13,Hill Climbing,prepartition,125,2.347785234451294
+13,Simulated Annealing,prepartition,239,2.4182162284851074
+14,Karmarkar-Karp,Karmarkar-Karp,227234,0.0
+14,Repeated Random,standard,24604278,2.160482168197632
+14,Hill Climbing,standard,287528472,0.44988512992858887
+14,Simulated Annealing,standard,164957444,0.45799851417541504
+14,Repeated Random,prepartition,98,4.734828233718872
+14,Hill Climbing,prepartition,892,2.252415657043457
+14,Simulated Annealing,prepartition,6,2.3069815635681152
+15,Karmarkar-Karp,Karmarkar-Karp,146362,0.0
+15,Repeated Random,standard,599301978,1.2681849002838135
+15,Hill Climbing,standard,952099618,0.2995414733886719
+15,Simulated Annealing,standard,60120270,0.31883764266967773
+15,Repeated Random,prepartition,796,2.9967105388641357
+15,Hill Climbing,prepartition,134,1.9853534698486328
+15,Simulated Annealing,prepartition,168,2.3075225353240967
+16,Karmarkar-Karp,Karmarkar-Karp,32174,0.0
+16,Repeated Random,standard,38136744,1.2423107624053955
+16,Hill Climbing,standard,297915860,0.29997682571411133
+16,Simulated Annealing,standard,31550392,0.3096756935119629
+16,Repeated Random,prepartition,94,3.902677059173584
+16,Hill Climbing,prepartition,862,2.2928266525268555
+16,Simulated Annealing,prepartition,324,2.32438325881958
+17,Karmarkar-Karp,Karmarkar-Karp,133960,0.0
+17,Repeated Random,standard,104727926,2.144075393676758
+17,Hill Climbing,standard,489756964,0.452136754989624
+17,Simulated Annealing,standard,139036766,0.47645139694213867
+17,Repeated Random,prepartition,20,4.7261621952056885
+17,Hill Climbing,prepartition,140,2.2954115867614746
+17,Simulated Annealing,prepartition,82,2.3308663368225098
+18,Karmarkar-Karp,Karmarkar-Karp,11002,0.0
+18,Repeated Random,standard,510195500,2.139341115951538
+18,Hill Climbing,standard,8227846,0.45142078399658203
+18,Simulated Annealing,standard,11242192,0.4676346778869629
+18,Repeated Random,prepartition,82,4.756255149841309
+18,Hill Climbing,prepartition,836,2.3023877143859863
+18,Simulated Annealing,prepartition,80,2.320366144180298
+19,Karmarkar-Karp,Karmarkar-Karp,386,0.0
+19,Repeated Random,standard,191608976,1.4402241706848145
+19,Hill Climbing,standard,115933514,0.3010289669036865
+19,Simulated Annealing,standard,216094648,0.30881619453430176
+19,Repeated Random,prepartition,64,3.454352378845215
+19,Hill Climbing,prepartition,384,2.306302070617676
+19,Simulated Annealing,prepartition,24,2.308082103729248
+20,Karmarkar-Karp,Karmarkar-Karp,158228,0.0
+20,Repeated Random,standard,787829266,2.156452178955078
+20,Hill Climbing,standard,346093808,0.43834686279296875
+20,Simulated Annealing,standard,596258586,0.4867861270904541
+20,Repeated Random,prepartition,86,4.76984977722168
+20,Hill Climbing,prepartition,14,2.401973247528076
+20,Simulated Annealing,prepartition,212,2.355137825012207
+21,Karmarkar-Karp,Karmarkar-Karp,101157,0.0
+21,Repeated Random,standard,349794483,2.20780611038208
+21,Hill Climbing,standard,686939687,0.4784543514251709
+21,Simulated Annealing,standard,356461753,0.4708726406097412
+21,Repeated Random,prepartition,159,4.741053342819214
+21,Hill Climbing,prepartition,59,2.6725590229034424
+21,Simulated Annealing,prepartition,57,2.3612253665924072
+22,Karmarkar-Karp,Karmarkar-Karp,561159,0.0
+22,Repeated Random,standard,1425187239,2.0565943717956543
+22,Hill Climbing,standard,443540921,0.478240966796875
+22,Simulated Annealing,standard,128523153,0.4745485782623291
+22,Repeated Random,prepartition,107,4.79439640045166
+22,Hill Climbing,prepartition,739,2.352182626724243
+22,Simulated Annealing,prepartition,253,2.309596538543701
+23,Karmarkar-Karp,Karmarkar-Karp,22082,0.0
+23,Repeated Random,standard,278651990,2.1556906700134277
+23,Hill Climbing,standard,272710806,0.4670753479003906
+23,Simulated Annealing,standard,18331414,0.4540863037109375
+23,Repeated Random,prepartition,156,4.112159252166748
+23,Hill Climbing,prepartition,220,1.8674216270446777
+23,Simulated Annealing,prepartition,12,2.3101601600646973
+24,Karmarkar-Karp,Karmarkar-Karp,58918,0.0
+24,Repeated Random,standard,202071654,2.182947874069214
+24,Hill Climbing,standard,20261442,0.4672417640686035
+24,Simulated Annealing,standard,1111255302,0.4689364433288574
+24,Repeated Random,prepartition,60,4.765362977981567
+24,Hill Climbing,prepartition,344,2.2881903648376465
+24,Simulated Annealing,prepartition,210,2.322831153869629
+25,Karmarkar-Karp,Karmarkar-Karp,2235268,0.0
+25,Repeated Random,standard,17380838,2.136582136154175
+25,Hill Climbing,standard,127050042,0.4660632610321045
+25,Simulated Annealing,standard,160707686,0.4591515064239502
+25,Repeated Random,prepartition,508,4.7377612590789795
+25,Hill Climbing,prepartition,1684,2.3819186687469482
+25,Simulated Annealing,prepartition,54,2.3088250160217285
+26,Karmarkar-Karp,Karmarkar-Karp,8967,0.0
+26,Repeated Random,standard,253287895,2.1352899074554443
+26,Hill Climbing,standard,224046107,0.45192551612854004
+26,Simulated Annealing,standard,91524771,0.45859742164611816
+26,Repeated Random,prepartition,65,5.098358869552612
+26,Hill Climbing,prepartition,1169,2.695836305618286
+26,Simulated Annealing,prepartition,151,2.5456581115722656
+27,Karmarkar-Karp,Karmarkar-Karp,485320,0.0
+27,Repeated Random,standard,23242402,2.277353525161743
+27,Hill Climbing,standard,278635096,0.4811742305755615
+27,Simulated Annealing,standard,298516536,0.4935159683227539
+27,Repeated Random,prepartition,42,4.917022466659546
+27,Hill Climbing,prepartition,142,2.590305805206299
+27,Simulated Annealing,prepartition,222,2.3309803009033203
+28,Karmarkar-Karp,Karmarkar-Karp,227974,0.0
+28,Repeated Random,standard,191721680,1.5927879810333252
+28,Hill Climbing,standard,60202790,0.46216726303100586
+28,Simulated Annealing,standard,379954552,0.5718362331390381
+28,Repeated Random,prepartition,144,4.978399991989136
+28,Hill Climbing,prepartition,74,2.471112012863159
+28,Simulated Annealing,prepartition,104,2.3177881240844727
+29,Karmarkar-Karp,Karmarkar-Karp,29173,0.0
+29,Repeated Random,standard,5174131,2.1548924446105957
+29,Hill Climbing,standard,164441941,0.4591968059539795
+29,Simulated Annealing,standard,312436069,0.4594995975494385
+29,Repeated Random,prepartition,427,3.393883466720581
+29,Hill Climbing,prepartition,1763,1.5985150337219238
+29,Simulated Annealing,prepartition,823,1.6340227127075195
+30,Karmarkar-Karp,Karmarkar-Karp,10934,0.0
+30,Repeated Random,standard,759734876,2.1895904541015625
+30,Hill Climbing,standard,313423094,0.45041775703430176
+30,Simulated Annealing,standard,169549990,0.4654839038848877
+30,Repeated Random,prepartition,60,4.748568058013916
+30,Hill Climbing,prepartition,1200,2.2805490493774414
+30,Simulated Annealing,prepartition,44,2.3262245655059814
+31,Karmarkar-Karp,Karmarkar-Karp,7904,0.0
+31,Repeated Random,standard,361880794,2.117830514907837
+31,Hill Climbing,standard,91541758,0.4589061737060547
+31,Simulated Annealing,standard,364600816,0.45136404037475586
+31,Repeated Random,prepartition,78,3.9352359771728516
+31,Hill Climbing,prepartition,176,2.2702534198760986
+31,Simulated Annealing,prepartition,156,2.489922523498535
+32,Karmarkar-Karp,Karmarkar-Karp,112070,0.0
+32,Repeated Random,standard,278739766,1.558736801147461
+32,Hill Climbing,standard,1997055214,0.42888569831848145
+32,Simulated Annealing,standard,980620530,0.44989514350891113
+32,Repeated Random,prepartition,232,4.734227180480957
+32,Hill Climbing,prepartition,138,2.2883644104003906
+32,Simulated Annealing,prepartition,170,2.31833553314209
+33,Karmarkar-Karp,Karmarkar-Karp,21265,0.0
+33,Repeated Random,standard,105438623,2.141221046447754
+33,Hill Climbing,standard,30019615,0.4337136745452881
+33,Simulated Annealing,standard,467962625,0.4519667625427246
+33,Repeated Random,prepartition,213,4.049966335296631
+33,Hill Climbing,prepartition,89,1.6093287467956543
+33,Simulated Annealing,prepartition,143,2.247548818588257
+34,Karmarkar-Karp,Karmarkar-Karp,175985,0.0
+34,Repeated Random,standard,216563907,2.0987367630004883
+34,Hill Climbing,standard,1153820415,0.4273371696472168
+34,Simulated Annealing,standard,465323571,0.4424171447753906
+34,Repeated Random,prepartition,41,4.749783039093018
+34,Hill Climbing,prepartition,853,2.257918357849121
+34,Simulated Annealing,prepartition,49,2.310105085372925
+35,Karmarkar-Karp,Karmarkar-Karp,1891,0.0
+35,Repeated Random,standard,533908277,2.1880719661712646
+35,Hill Climbing,standard,56390213,0.43636226654052734
+35,Simulated Annealing,standard,17170411,0.45042848587036133
+35,Repeated Random,prepartition,153,4.7157509326934814
+35,Hill Climbing,prepartition,2419,2.2583489418029785
+35,Simulated Annealing,prepartition,27,2.3044137954711914
+36,Karmarkar-Karp,Karmarkar-Karp,155093,0.0
+36,Repeated Random,standard,50332171,2.151763439178467
+36,Hill Climbing,standard,411478677,0.44600415229797363
+36,Simulated Annealing,standard,763373633,0.4591658115386963
+36,Repeated Random,prepartition,39,4.745290040969849
+36,Hill Climbing,prepartition,2753,2.2646424770355225
+36,Simulated Annealing,prepartition,23,2.320519208908081
+37,Karmarkar-Karp,Karmarkar-Karp,1090609,0.0
+37,Repeated Random,standard,263799537,2.1542770862579346
+37,Hill Climbing,standard,97223221,0.42530035972595215
+37,Simulated Annealing,standard,307661487,0.4596107006072998
+37,Repeated Random,prepartition,23,4.778033256530762
+37,Hill Climbing,prepartition,997,2.274906635284424
+37,Simulated Annealing,prepartition,121,2.3951051235198975
+38,Karmarkar-Karp,Karmarkar-Karp,42148,0.0
+38,Repeated Random,standard,194261642,2.217557668685913
+38,Hill Climbing,standard,105484506,0.42241334915161133
+38,Simulated Annealing,standard,24774598,0.46689891815185547
+38,Repeated Random,prepartition,4,4.870909929275513
+38,Hill Climbing,prepartition,82,2.151010513305664
+38,Simulated Annealing,prepartition,90,2.33866810798645
+39,Karmarkar-Karp,Karmarkar-Karp,320462,0.0
+39,Repeated Random,standard,1079868480,2.1559972763061523
+39,Hill Climbing,standard,538208990,0.4446120262145996
+39,Simulated Annealing,standard,114289858,0.46531033515930176
+39,Repeated Random,prepartition,22,4.797686338424683
+39,Hill Climbing,prepartition,240,2.2938990592956543
+39,Simulated Annealing,prepartition,280,2.3415701389312744
+40,Karmarkar-Karp,Karmarkar-Karp,89433,0.0
+40,Repeated Random,standard,372289641,2.1992695331573486
+40,Hill Climbing,standard,826524469,0.4643564224243164
+40,Simulated Annealing,standard,218050365,0.45935893058776855
+40,Repeated Random,prepartition,333,4.766786813735962
+40,Hill Climbing,prepartition,2755,2.300222635269165
+40,Simulated Annealing,prepartition,21,2.368100643157959
+41,Karmarkar-Karp,Karmarkar-Karp,250316,0.0
+41,Repeated Random,standard,806623520,2.147582769393921
+41,Hill Climbing,standard,154296708,0.4412972927093506
+41,Simulated Annealing,standard,305833566,0.4521799087524414
+41,Repeated Random,prepartition,126,4.731644153594971
+41,Hill Climbing,prepartition,836,2.4474339485168457
+41,Simulated Annealing,prepartition,382,2.369004249572754
+42,Karmarkar-Karp,Karmarkar-Karp,209129,0.0
+42,Repeated Random,standard,71960885,2.1503870487213135
+42,Hill Climbing,standard,374140797,0.4240560531616211
+42,Simulated Annealing,standard,135946639,0.4547898769378662
+42,Repeated Random,prepartition,71,4.727396726608276
+42,Hill Climbing,prepartition,1165,2.2493832111358643
+42,Simulated Annealing,prepartition,113,2.2728214263916016
+43,Karmarkar-Karp,Karmarkar-Karp,756931,0.0
+43,Repeated Random,standard,86075661,2.241034507751465
+43,Hill Climbing,standard,55914739,0.4362211227416992
+43,Simulated Annealing,standard,6693853,0.4704916477203369
+43,Repeated Random,prepartition,307,5.108254432678223
+43,Hill Climbing,prepartition,1,2.4399616718292236
+43,Simulated Annealing,prepartition,65,2.336315393447876
+44,Karmarkar-Karp,Karmarkar-Karp,196100,0.0
+44,Repeated Random,standard,3903006,2.133258819580078
+44,Hill Climbing,standard,5921220,0.4668912887573242
+44,Simulated Annealing,standard,248242320,0.4467599391937256
+44,Repeated Random,prepartition,108,4.752616882324219
+44,Hill Climbing,prepartition,1352,2.2715506553649902
+44,Simulated Annealing,prepartition,372,2.30842661857605
+45,Karmarkar-Karp,Karmarkar-Karp,21945,0.0
+45,Repeated Random,standard,7969883,2.1338014602661133
+45,Hill Climbing,standard,1915959,0.4258694648742676
+45,Simulated Annealing,standard,276593241,0.4432802200317383
+45,Repeated Random,prepartition,23,4.47205662727356
+45,Hill Climbing,prepartition,349,1.6022956371307373
+45,Simulated Annealing,prepartition,171,2.204542875289917
+46,Karmarkar-Karp,Karmarkar-Karp,477519,0.0
+46,Repeated Random,standard,14355489,2.1166741847991943
+46,Hill Climbing,standard,406106383,0.4264206886291504
+46,Simulated Annealing,standard,82346929,0.4516019821166992
+46,Repeated Random,prepartition,83,4.763628721237183
+46,Hill Climbing,prepartition,1547,2.256870985031128
+46,Simulated Annealing,prepartition,345,2.31742262840271
+47,Karmarkar-Karp,Karmarkar-Karp,119493,0.0
+47,Repeated Random,standard,65043183,2.1354684829711914
+47,Hill Climbing,standard,200583835,0.44426894187927246
+47,Simulated Annealing,standard,108983321,0.45110034942626953
+47,Repeated Random,prepartition,31,4.713649272918701
+47,Hill Climbing,prepartition,115,2.2586910724639893
+47,Simulated Annealing,prepartition,25,2.3017020225524902
+48,Karmarkar-Karp,Karmarkar-Karp,122931,0.0
+48,Repeated Random,standard,224422593,2.0981547832489014
+48,Hill Climbing,standard,763487365,0.4284086227416992
+48,Simulated Annealing,standard,271940545,0.46666479110717773
+48,Repeated Random,prepartition,53,4.719944477081299
+48,Hill Climbing,prepartition,453,2.2493109703063965
+48,Simulated Annealing,prepartition,235,2.297886610031128
+49,Karmarkar-Karp,Karmarkar-Karp,38277,0.0
+49,Repeated Random,standard,72235041,1.589733362197876
+49,Hill Climbing,standard,507301893,0.4443666934967041
+49,Simulated Annealing,standard,727731265,0.4472014904022217
+49,Repeated Random,prepartition,203,4.7175633907318115
+49,Hill Climbing,prepartition,1879,2.0510499477386475
+49,Simulated Annealing,prepartition,41,1.6520156860351562
+50,Karmarkar-Karp,Karmarkar-Karp,80858,0.0
+50,Repeated Random,standard,116391774,2.1186749935150146
+50,Hill Climbing,standard,792253524,0.4502403736114502
+50,Simulated Annealing,standard,285656822,0.4631993770599365
+50,Repeated Random,prepartition,190,4.7437403202056885
+50,Hill Climbing,prepartition,260,2.2641236782073975
+50,Simulated Annealing,prepartition,516,2.311422109603882
